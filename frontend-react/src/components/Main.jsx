@@ -10,7 +10,7 @@ const Main = () => {
                   <p className="text-light lead">
                       Just a practice portal set, nothing too serious. But hey, still an important part of the learning process for sure.
                   </p>
-                  <Button text='Login' class="btn-outline-info" url="/login" />
+                  <Button text='Explore' class="btn-outline-info" url="/dashboard" />
               </div>
           </div>
 
